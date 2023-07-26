@@ -4,6 +4,9 @@ Weather API Documentation
 
 
 #Requirements
+
 #•	Vs code
+
 #•	Thunder Client
+
 #•	PHP Version 7.4 or higher
