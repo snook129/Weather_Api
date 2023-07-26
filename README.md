@@ -11,6 +11,11 @@ Weather API Documentation
 
 •	PHP Version 7.4 or higher
 
+RUNNING THE PROJECT
+
+Create database “weather_api” in php myadmin and then Install composer. Then Run php artisan migrate to install database tables. Then run php artisan serve 
+
+
 Base URL	: http://127.0.0.1:8000/api 
 
 Register URL	: http://127.0.0.1:8000/api/register
